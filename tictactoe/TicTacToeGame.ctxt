@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TicTacToeGame
+comment0.text=\r\n\ Tic\ Tac\ Toe\ Game\ with\ GUI\ implementations.\r\n\ \r\n\ @author\ Mounica\ Pillarisetty\r\n\ @version\ December\ 2nd\ 2017\r\n
+comment1.params=
+comment1.target=TicTacToeGame()
+comment1.text=\r\n\ Constructs\ a\ new\ Tic\ Tac\ Toe\ GUI\ board\r\n
+comment2.params=
+comment2.target=void\ newGame()
+comment2.text=\r\n\ Method\ for\ reseting\ the\ game.\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ Action\ Performed\ (from\ actionListener\ Interface).\r\n\ (This\ method\ is\ executed\ when\ a\ button\ is\ selected.)\r\n\r\n\ @param\ the\ action\ event\r\n
+comment4.params=e
+comment4.target=boolean\ haveWinner(javax.swing.JButton)
+comment4.text=\r\n\ Returns\ true\ if\ filling\ the\ given\ square\ gives\ us\ a\ winner,\ and\ false\r\n\ otherwise.\r\n\r\n\ @param\ Square\ just\ filled\r\n\ \r\n\ @return\ true\ if\ we\ have\ a\ winner,\ false\ otherwise\r\n
+comment5.params=
+comment5.target=void\ disableAll()
+comment5.text=\r\n\ Disables\ all\ buttons\ when\ the\ game\ is\ over\r\n
+comment6.params=
+comment6.target=void\ setGUI()
+comment6.text=\r\n\ Set\ up\ the\ GUI\r\n\r\n
+numComments=7
