@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TicTacToeGame
+comment0.text=\r\n\ Tic\ Tac\ Toe\ Game\ with\ GUI\ implementation.\r\n\ \r\n\ Some\ code\ is\ adapted\ from\ Prof.\ Lynn\ Marshall's\ examples\r\n\ \r\n\ @author\ Mounica\ Pillarisetty\r\n\ @version\ Dec\ 02,\ 2017\r\n
+comment1.params=
+comment1.target=TicTacToeGame()
+comment1.text=\r\n\ Constructor\ for\ a\ new\ Tic\ Tac\ Toe\ board\r\n
+comment2.params=
+comment2.target=void\ setGUI()
+comment2.text=\r\n\ Setting\ up\ the\ GUI\r\n
+comment3.params=
+comment3.target=void\ newGame()
+comment3.text=\r\n\ Creating\ a\ new\ game\r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ Action\ Performed\ (from\ actionListener\ Interface).\r\n\ This\ method\ is\ executed\ when\ a\ button\ is\ selected\ on\ the\ board\r\n\r\n\ @param\ e\ \ \ \ \ \ an\ action\ event\r\n
+comment5.params=e
+comment5.target=boolean\ winnerPlayer(javax.swing.JButton)
+comment5.text=\r\n\ This\ is\ a\ method\ to\ declare\ a\ winner.\r\n\ Returns\ true\ if\ the\ last\ played\ square\ makes\ a\ winner\r\n\ and\ false\ otherwise.\r\n\r\n\ @param\ e\ \ \ \ \ \ \ \ \ a\ square\ has\ been\ taken\r\n\ @return\ true\ \ \ \ \ if\ we\ have\ a\ winner,\ false\ otherwise\r\n
+numComments=6
